@@ -4,3 +4,5 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
+
+![Bristol Aztecs Logo](https://en.wikipedia.org/wiki/File:BristolAztecsLogo.jpg)

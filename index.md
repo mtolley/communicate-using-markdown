@@ -13,3 +13,8 @@ function greet(name: string) {
   console.log("Hello, " + name.toUpperCase() + "!!");
 }
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+

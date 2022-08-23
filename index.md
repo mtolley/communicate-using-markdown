@@ -5,4 +5,4 @@
 ##### Header 5
 ###### Header 6
 
-![Bristol Aztecs Logo](https://en.wikipedia.org/wiki/File:BristolAztecsLogo.jpg)
+![Bristol Aztecs Logo](https://upload.wikimedia.org/wikipedia/en/5/5d/BristolAztecsLogo.jpg)

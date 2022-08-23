@@ -6,3 +6,10 @@
 ###### Header 6
 
 ![Bristol Aztecs Logo](https://upload.wikimedia.org/wikipedia/en/5/5d/BristolAztecsLogo.jpg)
+
+```
+// Parameter type annotation
+function greet(name: string) {
+  console.log("Hello, " + name.toUpperCase() + "!!");
+}
+```
